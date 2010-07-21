@@ -1,4 +1,4 @@
-IN: inlining-demo-1
+IN: planet.earth.constants
 
 CONSTANT: earth-mass    5.9736e24
 CONSTANT: earth-radius  6,378.1

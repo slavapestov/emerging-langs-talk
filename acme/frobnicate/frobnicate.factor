@@ -1,5 +1,5 @@
 USING: arrays kernel math strings unicode.case ;
-IN: method-demo
+IN: acme.frobnicate
 
 GENERIC: my-generic ( x -- y )
 
